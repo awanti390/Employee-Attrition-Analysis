@@ -1,7 +1,7 @@
 # Employee-Attrition-Analysis
 This Power BI project focuses on analyzing employee attrition to help organizations understand the factors behind employee turnover and make data-driven decisions to improve retention.
 
-🔍 Project Objective
+🔍 Project Objective:
 To visualize and analyze key HR metrics to uncover patterns in employee attrition, such as which departments are most affected, which job roles have the highest turnover, and how various factors (e.g., age, job satisfaction, years at company) impact employee departure.
 
 📌 Key Features
